@@ -5,3 +5,9 @@
 При аналогичных исходных условиях осуществить поиск минимума f(x), модулированной сигналом sin(5x), т.е. мультимодальной функции f(x)*sin(5x).
 
 ### Вывод программы
+
+![](https://github.com/AnnaMinkova/Tsisa_lab_02/blob/main/лр2-1.jpg?raw=true)
+
+![](https://github.com/AnnaMinkova/Tsisa_lab_02/blob/main/лр2-2.jpg?raw=true)
+
+![](https://github.com/AnnaMinkova/Tsisa_lab_02/blob/main/лр2-3.jpg?raw=true)
